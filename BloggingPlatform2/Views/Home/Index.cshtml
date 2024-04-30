@@ -1,0 +1,60 @@
+﻿
+@model List<BloggingPlatform2.Models.Domain.BlogPost>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+</div>
+<div style="display: flex;background-color:#52307c; height: 400px;">
+    <div style=" margin-left:15%; margin-top:5%;margin-right:10%">
+        <h1 style="font-size: 98px; color:white">Stay Curious.</h1>
+        <p style="font-size: 28px; color:white">Discover stories, thinking, and expertise from writers on any topic</p>
+    </div>
+    <div style="flex: 1;margin-right:5%;">
+        <img src="https://wp-media.familytoday.com/2013/11/featuredImageId6782.jpg" alt="Image" style="width: 300px; height: auto; margin-top:15%; margin-right:15%;">
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            @if (Model != null && Model.Any())
+            {
+                foreach (var blogPost in Model)
+                {
+                    <div class="mb-5 bg-light box-shadow p-5">
+                        <img src="@blogPost.FeaturedImageUrl" alt="@blogPost.Heading"
+                             class="mb-2 d-block img-fluid"></img>
+
+                        <h2 class="mb-4">@blogPost.Heading</h2>
+                        <p class="mb-4">
+                            Author:@blogPost.Auther
+                            <br />
+                            Published Date:@blogPost.PublishedDate.ToShortDateString()
+                        </p>
+
+                        <p class="mb-4">
+                            @blogPost.ShortDescription
+                        </p>
+
+
+                        <a class="btn btn-dark" asp-area="" asp-controller="Blogs"
+                           asp-action="Index" asp-route-urlHandle="@blogPost.UrlHandle">Read More</a>
+
+                    </div>
+
+
+                }
+            }
+            else
+            {
+                <p>Blog post not found</p>
+            }
+
+        </div>
+
+    </div>
+</div>

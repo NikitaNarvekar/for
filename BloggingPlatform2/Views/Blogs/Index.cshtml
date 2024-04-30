@@ -1,0 +1,36 @@
+﻿@model BloggingPlatform2.Models.Domain.BlogPost
+
+@{
+}
+@if (Model != null )
+{
+   
+        <div class="mb-3 bg-light box-shadow p-5">
+           
+
+            <h1 class="mb-3">@Model.Heading</h1>
+            <div class="d-flex justify-content-between mb-3">
+            <span class="text-secondary">
+                Author:@Model.Auther
+            </span>
+            <span class="text-secondary">
+                Published Date:@Model.PublishedDate.ToShortDateString()
+            </span>
+            </div>
+        <img src="@Model.FeaturedImageUrl" 
+             class="mb-4 d-block img-fluid"></img>
+            <div class="mb-3">
+                @Model.Content
+            </div>
+
+            
+        </div>
+
+
+    }
+   else
+   {
+    <p>Blog post not found</p>
+   }
+
+

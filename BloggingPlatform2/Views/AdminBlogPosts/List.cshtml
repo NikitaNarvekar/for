@@ -1,0 +1,59 @@
+﻿@model List<BloggingPlatform2.Models.Domain.BlogPost>
+@{
+}
+<div class="container py=2">
+    <h1>All BlogPost</h1>
+</div>
+
+<div class="container py-5">
+    @if (Model != null && Model.Any())
+    {
+        <table class="table">
+          <thead>
+           <td>Id</td>
+            <td>Heading</td>
+            <td></td>
+            <td></td>
+            
+          </thead>
+        
+        <tbody>
+            @foreach(var blogPost in Model)
+            {<tr>
+                    <td>@blogPost.Id</td>
+                    <td>@blogPost.Heading</td>
+                    <td></td>
+                        <td>
+                            <a class="btn btn-dark" asp-area="" asp-controller="Blogs"
+                               asp-action="Index" asp-route-urlHandle="@blogPost.UrlHandle">View</a>
+                            <a
+                                    class="btn btn-primary ms-2"
+                                    asp-area=""
+                                    asp-controller="AdminBlogPosts"
+                                    asp-action="Edit"
+                                    asp-route-id="@blogPost.Id">
+                                    Edit 
+                             </a>                          
+
+                            <a
+                                    class="btn btn-danger ms-2"
+                                    asp-area=""
+                                    asp-controller="AdminBlogPosts"
+                                    asp-action="Delete"
+                                    asp-route-id="@blogPost.Id">
+                                    Delete
+                            </a>
+                    </td>
+                       
+                    </tr>
+            }
+        </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Blog Post Found!</p>
+    }
+
+   
+          

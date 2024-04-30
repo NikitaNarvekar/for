@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\controllers\\adminblogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\controllers\\adminblogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\adminblogposts\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\adminblogposts\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\adminblogposts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\adminblogposts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\repository\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\repository\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\repository\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\repository\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\adminblogposts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\adminblogposts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\models\\viewmodels\\addblogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\models\\viewmodels\\addblogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|c:\\users\\nnarvekar\\source\\repos\\bloggingplatform2\\bloggingplatform2\\data\\bloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B57AC3-3371-4278-B2B2-2AAE7F50E909}|BloggingPlatform2\\BloggingPlatform2.csproj|solutionrelative:bloggingplatform2\\data\\bloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T01:45:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:24:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:26:28.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T03:49:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Program.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Program.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Program.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:52:13.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminBlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\AdminBlogPostsController.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Controllers\\AdminBlogPostsController.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\AdminBlogPostsController.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Controllers\\AdminBlogPostsController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:51:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\List.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\AdminBlogPosts\\List.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\List.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\AdminBlogPosts\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:58:25.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Repository\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Repository\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Repository\\IBlogPostRepository.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Repository\\IBlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:53:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T07:07:04.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:23:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T06:58:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\AdminBlogPosts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\Edit.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\AdminBlogPosts\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T04:15:22.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Repository\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Repository\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Repository\\BlogPostRepository.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Repository\\BlogPostRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:38:40.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\Add.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\AdminBlogPosts\\Add.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\AdminBlogPosts\\Add.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\AdminBlogPosts\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T04:15:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "BloggingPlatform2\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T01:45:57.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:45:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Models\\Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:42:31.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BloggerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Data\\BloggerDbContext.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Data\\BloggerDbContext.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Data\\BloggerDbContext.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Data\\BloggerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T01:42:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddBlogPostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\ViewModels\\AddBlogPostRequest.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Models\\ViewModels\\AddBlogPostRequest.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\ViewModels\\AddBlogPostRequest.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Models\\ViewModels\\AddBlogPostRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:46:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:47:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BloggingPlatform2\\Models\\Domain\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\NNarvekar\\source\\repos\\BloggingPlatform2\\BloggingPlatform2\\Models\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "BloggingPlatform2\\Models\\Domain\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:51:10.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
